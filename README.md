@@ -7,5 +7,3 @@
   - spring-boot
   - python
 
-##### 개발 블로그
-https://galug.tistory.com/
