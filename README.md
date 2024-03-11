@@ -6,4 +6,5 @@
   - spring
   - spring-boot
   - python
+- velog: https://velog.io/@khjmr98/posts
 
